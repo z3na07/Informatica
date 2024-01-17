@@ -8,7 +8,7 @@ public class Lotto {
         int [] ruota=null;
 
 
-
+//Sono nei tuoi muri
 
 
         Scanner input = new Scanner(System.in);
